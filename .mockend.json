@@ -16,16 +16,19 @@
       "regexp": "#[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}"
     },
     "lastLogin" : {
-      "dateTime" : {}
+      "dateTime" : {
+        "min": "2023-01-12T00:00:00Z",
+        "max": "2023-01-20T23:59:59Z"
+      }
     },
     "role" : {
       "string" : [
         "Sales Leader",
         "Sales Rep"
       ]
+    },
+   "_" : {
+    "items" : 48
     }
   },
-  "_" : {
-    "items" : 48
-  }
 }
