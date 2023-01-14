@@ -1,7 +1,23 @@
 {
   "User": {
     "name": {
-      "string": {}
+      "string": [
+        "Eula Bayer",
+        "Barry Schoen",
+        "Wilhelm Batz",
+        "Jaime Metz",
+        "Wilton Welch",
+        "Amanda Hagenes",
+        "Janae Rowe",
+        "John Kiehn",
+        "Dasia Collins",
+        "Sylvan Douglas",
+        "Leila Spencer",
+        "Fausto Lesch",
+        "Hayden Kuvalis",
+        "Coleman Reilly",
+        "Lempi Pfeffer"
+      ]
     },
     "avatarUrl": {
       "regexp": "https://i\\.pravatar\\.cc/150\\?u=[0-9]{5}"
